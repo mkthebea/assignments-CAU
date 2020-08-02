@@ -3,6 +3,8 @@
 
 # define MAX 6
 
+/*다항식 계산기: 계수가 0이 아닌 항만을 배열에 저장*/
+
 typedef struct p{
 	int coef;	//계수 
 	int expon;	//차수  
