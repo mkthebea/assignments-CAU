@@ -3,6 +3,8 @@
 
 # define MAX 6
 
+/*다항식 계산기: 모든 항의 계수를 배열에 저장*/
+
 void add(int*,int*,int*);
 void multi(int*,int*,int*);
 int cal(int*,int,int);
